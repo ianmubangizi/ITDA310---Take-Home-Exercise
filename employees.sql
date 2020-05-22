@@ -1,0 +1,10 @@
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (1, 'Tracy Selley', 'Engineer', 82325.17, 10, 323.00);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (2, 'Pancho Mabbitt', 'Engineer', 46092.30, 10, 984.58);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (3, 'Gian Ioan', 'Engineer', 52087.44, 10, 944.19);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (4, 'Dennie Imesson', 'Analyst', 78827.51, 20, 819.22);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (5, 'Simone Yarnell', 'Accountant', 77938.53, 20, 891.38);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (6, 'Joy Apfelmann', 'Professor', 43579.06, 10, 377.58);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (7, 'Ware Stonehouse', 'Editor', 39964.13, 20, 300.67);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (8, 'Libbey Gilmartin', 'Manager', 39319.68, 10, 697.27);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (9, 'Muhammad Eldon', 'Electricitan', 40166.75, 20, 569.74);
+INSERT INTO employees.EmpTable (EmpNo, EmpName, JobTitle, Salary, DeptNo, Commission) VALUES (10, 'Marcelline Beyn', 'Executive', 150954.10, 10, 6404.24);
